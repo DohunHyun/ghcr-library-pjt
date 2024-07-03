@@ -18,3 +18,5 @@ FROM openjdk:17-jdk-slim
 WORKDIR /app
 
 COPY --from=build /app/build/libs/*.jar library.jar
+
+ENTRYPOINT ["java", "-jar", "library.jar"]
