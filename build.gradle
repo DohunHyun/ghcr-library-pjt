@@ -3,7 +3,7 @@ plugins {
     id 'maven-publish'
 }
 
-group = 'org.dohunhyun'
+group = 'org.ej31'
 version = '1.0-SNAPSHOT'
 
 repositories {
