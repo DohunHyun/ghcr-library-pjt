@@ -1,4 +1,4 @@
-package org.ej31;
+package org.kanuda;
 
 public class Greeter {
     public String greet(String name) {

@@ -3,8 +3,8 @@ plugins {
     id 'maven-publish'
 }
 
-group = 'org.ej31'
-version = '1.0-SNAPSHOT'
+group = 'org.kanuda'
+version = 'latest'
 
 repositories {
     mavenCentral()

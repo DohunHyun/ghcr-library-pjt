@@ -1,4 +1,4 @@
-package org.ej31;
+package org.kanuda;
 
 public class Main {
     public static void main(String[] args) {
