@@ -38,7 +38,7 @@ test {
 jar {
     manifest {
         attributes(
-                'Main-Class': 'org.ej31.Greeter'
+                'Main-Class': 'org.ej31.Main'
         )
     }
 }
